@@ -5,7 +5,8 @@
     "Customer.java",
     "Order.java",
     "CustomerTest.java",
-    "readme.txt"
+    "readme.txt",
+    "cyber-dojo.sh"
   ],
   "filename_extension" : ".java",
   "tab_size": 4

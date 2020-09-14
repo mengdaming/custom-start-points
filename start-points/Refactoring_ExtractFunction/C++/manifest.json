@@ -5,7 +5,8 @@
     "countdown.cpp",
     "readme.txt",
     "scorer.cpp",
-    "tokens.cpp"
+    "tokens.cpp",
+    "cyber-dojo.sh"
   ],
   "highlight_filenames": [ "readme.txt" ],
   "filename_extension": [ ".cpp", ".hpp", ".c", ".h" ],
