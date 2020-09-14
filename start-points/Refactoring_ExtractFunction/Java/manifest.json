@@ -1,0 +1,12 @@
+{
+  "image_name": "cyberdojofoundation/java_junit:a4a7561",
+  "display_name": "Refactoring - Extract Function - Java JUnit",
+  "visible_filenames": [
+    "Customer.java",
+    "Order.java",
+    "CustomerTest.java",
+    "readme.txt",
+    "cyber-dojo.sh"
+  ],
+  "filename_extension" : ".java"
+}
