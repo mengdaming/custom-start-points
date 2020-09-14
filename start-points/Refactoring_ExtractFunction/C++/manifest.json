@@ -1,9 +1,8 @@
 {
   "image_name": "cyberdojofoundation/gpp_assert:832566f",
-  "display_name": "C++ Countdown, Round 5",
+  "display_name": "Refactoring - Extract Function (C++)",
   "visible_filenames": [
     "countdown.cpp",
-    "cyber-dojo.sh",
     "readme.txt",
     "scorer.cpp",
     "tokens.cpp"
