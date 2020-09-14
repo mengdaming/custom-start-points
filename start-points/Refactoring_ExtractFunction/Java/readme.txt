@@ -1,18 +1,15 @@
+================================================================================
+Refactoring - Extract Function
+================================================================================
 
-# Refactoring - Extract Function
+Objective
+--------------------------------------------------------------------------------
 
-## Objective
+Practice Extract Function refactoring technique
 
-Practice [Extract Function](https://refactoring.com/catalog/extractFunction.html) refactoring technique
+Cf. https://refactoring.com/catalog/extractFunction.html
 
-## Instructions
+Instructions
+--------------------------------------------------------------------------------
 
-### Step 1 - Basic Mode
-
-Intellij IDEA's refactoring menus and shortcuts **are not allowed**
-
-Simply follow the `TODO` tags in [Customer.java]
-
-### Step 2 - Advanced Mode
-
-Repeat, relying this time primarily on Intellij IDEA's refactoring menus and/or shortcuts
+Simply follow the `TODO` tags in Customer.java
