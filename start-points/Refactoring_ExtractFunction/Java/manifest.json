@@ -5,8 +5,7 @@
     "Customer.java",
     "Order.java",
     "CustomerTest.java",
-    "readme.txt",
-    "cyber-dojo.sh"
+    "readme.txt"
   ],
   "filename_extension" : ".java"
 }
